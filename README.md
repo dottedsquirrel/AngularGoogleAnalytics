@@ -1,3 +1,8 @@
+# About this repo
+This repo was created by Aphinya Dechalert as a barebones Angular Google Analytics implementation project. There are 3 pages in total - home, about and shop. This project covers pageview and event tracking. 
+
+For the full explanation, you can read the entire thing here: [How to properly add Google Analytics tracking to your Angular web app](https://medium.com/@PurpleGreenLemon/how-to-properly-add-google-analytics-tracking-to-your-angular-web-app-bc7750713c9e?source=friends_link&sk=cb2360b99d9125dea862e0f910b28708)
+
 # AngularGoogleAnalytics
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.0.
