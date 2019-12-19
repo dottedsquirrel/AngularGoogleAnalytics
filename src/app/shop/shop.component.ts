@@ -14,7 +14,7 @@ export class ShopComponent implements OnInit {
   }
 
   SendAddToCartEvent(){
-    this.googleAnalyticsService.eventEmitter("add_to_cart", "shop", "cart", "click", 1);
+    this.googleAnalyticsService.eventEmitter("add_to_cart", "shop", "cart", 1);
   }
 
 }
